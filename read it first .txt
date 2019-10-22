@@ -1,0 +1,14 @@
+the program will run from index.jsp 
+(no framework is used)
+
+glassfish server is used 
+
+
+here the 
+database name:schooll
+table name :records
+column :id(primary),name,course,feee
+
+
+
+see the documentation 
